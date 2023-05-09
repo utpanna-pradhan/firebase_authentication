@@ -1,0 +1,47 @@
+.container{
+    width: 500px;
+    height: 550px;
+    margin-left: 422px;
+    margin-top: 111px;
+    border: 2px solid white;
+    background-color: rgb(117, 192, 195);
+    border-radius: 20px;
+}
+.container h3{
+    margin-top: 30px px;
+        color: #100f0f;
+        
+        font-size: 40px;
+        margin-left: 180px;
+    }
+.container label{
+    padding-left: 100px;
+    font-weight: 600;
+}
+
+.container input{
+    margin-top: 50px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+button{
+    margin-left: 176px;
+    margin-top: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+   
+}
+.main{
+    margin-bottom: 10px;
+}
+.main label{
+    color: red;
+      
+        
+    }
+.main .btnsignup{
+    margin-left: 20px;
+    
+    
+   
+}

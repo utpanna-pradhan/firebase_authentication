@@ -1,0 +1,44 @@
+ .nav-link{
+   margin-left: 1015px;
+   font-weight: bold;
+ 
+}
+.nav-link:hover{
+    background-color:  rgb(117, 192, 195);
+   
+    border-radius: 20px;
+}
+
+
+
+body {
+    background-color: rgb(14, 95, 98);
+}
+form{
+    width: 500px;
+    height: 300px;
+    margin-left: 422px;
+    margin-top: 111px;
+    border: 2px solid white;
+    background-color:rgb(117, 192, 195);
+    border-radius: 20px;
+}
+
+.btn{
+    margin-top: 80px;
+    margin-left: 26px;
+}
+.btn button{
+    border-radius: 20px;
+    margin-top: 20px;
+    font-weight:600;
+    font-size: 20px;
+    
+}
+.btn button:hover{
+    background-color:rgb(152, 169, 169) ;
+   
+}
+button{
+    text-decoration: none;
+}

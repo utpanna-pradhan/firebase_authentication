@@ -1,0 +1,33 @@
+.container2 {
+    width: 500px;
+    height: 520px;
+    margin-left: 422px;
+    margin-top: 111px;
+    border: 2px solid white;
+    background-color: rgb(117, 192, 195);
+    border-radius: 20px;
+}
+.main .btnlogin{
+    margin-left: 190px;
+    margin-top: 40px;
+}
+h6{
+    padding-left:170px;
+}
+.container2 label {
+    padding-left: 100px;
+    font-weight: 600;
+}
+
+.container2 input {
+    margin-top: 50px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.container2 h3 {
+    margin-top: 30px px;
+    color: #100f0f;
+
+    font-size: 40px;
+    margin-left: 180px;
+}
